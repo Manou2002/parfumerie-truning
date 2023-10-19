@@ -1,0 +1,22 @@
+h1{
+    
+    color: rgb(228, 30, 63);
+}
+    
+h3{
+    color: black;
+}
+ul h1 {
+color:rgb(45, 10, 47);
+}
+section {
+color:black ;
+box-shadow: none;
+}
+button {
+color: pink;
+background-color: pink;
+size:12cap;
+border-radius: 10px;
+text-align: right;
+}

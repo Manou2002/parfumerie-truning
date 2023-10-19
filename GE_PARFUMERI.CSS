@@ -1,0 +1,38 @@
+
+
+HEADER
+{
+	color: skyblue;
+	font-family:ALGERIAN;
+	font-size: 25px ;
+	border: 2px solid black;
+	background: indianred;
+
+}
+
+BODY
+{
+	background-image:URL("IMAGES/R.JPEG");
+}
+
+
+
+ASIDE
+{
+	color: skyblue;
+	font-family:ALGERIAN;
+	font-size: 25px ;
+	border: 2px solid black;
+	background: indianred;
+
+}
+
+article
+{
+	color: skyblue;
+	font-family:ALGERIAN;
+	font-size: 25px ;
+	border: 2px solid black;
+	background: indianred;
+
+}
